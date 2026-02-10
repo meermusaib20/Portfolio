@@ -4,7 +4,7 @@ A modern, responsive personal portfolio built with **React + Vite**, designed fo
 It showcases my skills, projects, education, and contact details with a clean, minimal, AI-themed design.
 
 🔗 **Live Website:**  
-👉 https://meermusaib20.github.io/portfolio
+👉 https://meermusaib20.github.io/Portfolio
 
 ---
 
