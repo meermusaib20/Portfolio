@@ -6,8 +6,7 @@ It showcases my skills, projects, education, and contact details with a clean, m
 🔗 **Live Website:**  
 👉 https://meermusaib20.github.io/Portfolio
 
----
-
+--- 
 ## ✨ Features
 
 - 🎨 Modern AI-themed abstract background
